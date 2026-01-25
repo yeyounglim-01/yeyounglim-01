@@ -35,6 +35,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/yeyounglim-01/yeyounglim-01/output/snake.svg" alt="Snake animation" />
 
 ###
