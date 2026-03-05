@@ -5,10 +5,10 @@
 ###
 
 <div align="center">
-  <a href="I’m a multidisciplinary creator from South Korea, with a background in fashion design and product planning, now transitioning into AI-powered product development.  🔭 I previously worked as a menswear designer, contributing to collection concept planning, design development, and design-to-production collaboration  📚 I’m currently a participant in Microsoft AI School (8th cohort), learning AI and cloud-based service development with Python, machine learning, and Azure AI Services (expected to complete in February)  ⚡ In my free time, I explore the intersection of design, 3D virtual garments, and AI to create innovative, user-centered product experiences" target="_blank">
+  <a href="https://www.linkedin.com/in/yeyoung-lim-346708392" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="alsu5933@gmail.com" target="_blank">
+  <a href="mailto:alsu5933@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -90,5 +90,3 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="googlecloud logo"  />
 </div>
-
-###
