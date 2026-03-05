@@ -21,23 +21,19 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<br clear="both">
+<h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeyounglim-01&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=yeyounglim-01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeyounglim-01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeyounglim-01&radius=16&theme=react&area=true&order=5" width="80%" alt="activity-graph graph" />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/yeyounglim-01/yeyounglim-01/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yeyounglim-01/yeyounglim-01/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
@@ -45,17 +41,18 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
-###
-
-<p align="left">I’m a multidisciplinary creator from South Korea, with a background in fashion design and product planning, now transitioning into AI-powered product development.<br><br>-🔭 I previously worked as a menswear designer, contributing to collection concept planning, design development, and design-to-production collaboration<br><br>-📚 I’m currently a participant in Microsoft AI School (8th cohort), learning AI and cloud-based service development with Python, machine learning, and Azure AI Services (expected to complete in February)<br><br>-⚡ In my free time, I explore the intersection of design, 3D virtual garments, and AI to create innovative, user-centered product experiences</p>
+<p align="left">
+I’m a multidisciplinary creator from South Korea, with a background in fashion design and product planning, now transitioning into AI-powered product development.<br><br>
+-🔭 I previously worked as a menswear designer, contributing to collection concept planning, design development, and design-to-production collaboration<br><br>
+-📚 I’m currently a participant in Microsoft AI School (8th cohort), learning AI and cloud-based service development with Python, machine learning, and Azure AI Services (expected to complete in February)<br><br>
+-⚡ In my free time, I explore the intersection of design, 3D virtual garments, and AI to create innovative, user-centered product experiences
+</p>
 
 ###
 
 <h3 align="left">🧠 Languages / Frameworks</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
@@ -73,16 +70,14 @@
 
 <h3 align="left">🛠 Tools / Platforms</h3>
 
-###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo" />
   <img width="12" />
