@@ -6,22 +6,39 @@
 
 <div align="center">
   <a href="https://yeyounglim-01.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/yeyoung-lim-346708392" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin" />
   </a>
   <a href="mailto:alsu5933@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail" />
   </a>
 </div>
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h1 align="center">Yeyoung Lim — Creative Designer × AI Engineer</h1>
+
+###
+
+<h3 align="left">👩‍💻 About Me</h3>
+
+<p align="left">
+Bridging creative intuition and AI engineering.<br><br>
+🎨 &nbsp;Former fashion designer at <b>RVD</b> — collection planning, material sourcing, and production communication across seasons<br><br>
+🤖 &nbsp;Completed <b>Microsoft AI School 8th cohort</b> — built AI services end-to-end with Python, ML/DL, Azure AI Services, Computer Vision, and NLP<br><br>
+🏆 &nbsp;<b>Excellence Award (2nd place)</b> at MS AI School — Trademark Similarity AI using CNN + ResNet50 + semantic embeddings<br><br>
+🎮 &nbsp;KakaoTalk theme creator — 5 original themes designed and sold commercially<br><br>
+💡 &nbsp;Interested in AI roles at the intersection of design, entertainment, and creative industries
+</p>
+
+###
+
+<h3 align="left">🔥 Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeyounglim-01&radius=16&theme=react&area=true&order=5" width="80%" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeyounglim-01&radius=16&theme=react&area=true&order=5" width="80%" alt="activity-graph" />
 </div>
 
 ###
@@ -34,51 +51,46 @@
 
 ###
 
-<h1 align="center">Hey there! Welcome to yeyoung’s GitHub 💝</h1>
-
-###
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-<p align="left">
-I’m a multidisciplinary creator from South Korea, with a background in fashion design and product planning, now transitioning into AI-powered product development.<br><br>
--🔭 I previously worked as a menswear designer, contributing to collection concept planning, design development, and design-to-production collaboration<br><br>
--📚 I’m currently a participant in Microsoft AI School (8th cohort), learning AI and cloud-based service development with Python, machine learning, and Azure AI Services (expected to complete in February)<br><br>
--⚡ In my free time, I explore the intersection of design, 3D virtual garments, and AI to create innovative, user-centered product experiences
-</p>
-
-###
-
-<h3 align="left">🧠 Languages / Frameworks</h3>
+<h3 align="left">🧠 AI / ML</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn.simpleicons.org/openai/412991" height="40" alt="openai" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" />
+  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40" alt="azure" />
 </div>
 
 ###
 
-<h3 align="left">🛠 Tools / Platforms</h3>
+<h3 align="left">💻 Frontend / Backend</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/behance/1769FF" height="40" alt="behance logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter" />
+</div>
+
+###
+
+<h3 align="left">🛠 Tools</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="googlecloud logo" />
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="googlecloud" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion" />
 </div>
