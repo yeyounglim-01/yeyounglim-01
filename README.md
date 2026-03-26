@@ -4,7 +4,7 @@
 ---
 
 Bridging creative intuition and AI engineering.  
-패션 브랜드 RVD 디자이너 출신 · Microsoft AI School 8기 수료 · 카카오톡 테마 크리에이터.
+패션 브랜드 디자이너 출신 · Microsoft AI School 8기 수료 · 카카오톡 테마 크리에이터.
 
 ---
 
