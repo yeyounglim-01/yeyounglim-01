@@ -1,96 +1,32 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
+# YEYOUNG LIM
+**Creative Designer × AI Engineer**
 
-###
+---
 
-<div align="center">
-  <a href="https://yeyounglim-01.github.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/yeyoung-lim-346708392" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin" />
-  </a>
-  <a href="mailto:alsu5933@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail" />
-  </a>
-</div>
+Bridging creative intuition and AI engineering.  
+패션 브랜드 RVD 디자이너 출신 · Microsoft AI School 8기 수료 · 카카오톡 테마 크리에이터.
 
-###
+---
 
-<h1 align="center">Yeyoung Lim — Creative Designer × AI Engineer</h1>
+**AI / ML**  
+`Python` `PyTorch` `Azure OpenAI` `Azure AI Search` `RAG` `GPT-4o` `Gemini` `Computer Vision` `NLP` `YOLOv11` `ResNet50`
 
-###
+**Frontend & Dev**  
+`React` `TypeScript` `Tailwind CSS` `FastAPI` `Node.js` `Django` `Flutter` `Google Cloud`
 
-<h3 align="left">👩‍💻 About Me</h3>
+**Creative Design**  
+`Figma` `Illustrator` `Photoshop` `InDesign` `3D CLO`
 
-<p align="left">
-Bridging creative intuition and AI engineering.<br><br>
-🎨 &nbsp;Former fashion designer at <b>RVD</b> — collection planning, material sourcing, and production communication across seasons<br><br>
-🤖 &nbsp;Completed <b>Microsoft AI School 8th cohort</b> — built AI services end-to-end with Python, ML/DL, Azure AI Services, Computer Vision, and NLP<br><br>
-🏆 &nbsp;<b>Excellence Award (2nd place)</b> at MS AI School — Trademark Similarity AI using CNN + ResNet50 + semantic embeddings<br><br>
-🎮 &nbsp;KakaoTalk theme creator — 5 original themes designed and sold commercially<br><br>
-💡 &nbsp;Interested in AI roles at the intersection of design, entertainment, and creative industries
-</p>
+---
 
-###
+**Projects**
 
-<h3 align="left">🔥 Stats</h3>
+[Docsy](https://docsy.cyou) — Gemini 기반 AI 문서 자동화 에이전트 · Gemini Hackathon 제출작  
+[Tip](https://github.com/yeyounglim-01/similarity_model_visual-semantic) — 상표 유사도 AI 분석 시스템 · MS AI School 우수상 2위  
+[꿀단지](https://github.com/yeyounglim-01/honeypot_proto) — 퇴사 지식 소실 방지 AI HR SaaS · Frontend Lead  
+[찍먹](https://github.com/yeyounglim-01/zzickmeok_proj) — YOLOv11 음식 탐지 · 약물-식품 상호작용 분석  
+[Cosmos](https://yeyounglim-01.github.io) — 버추얼 패션 브랜드 · 3D CLO + Gen AI
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeyounglim-01&radius=16&theme=react&area=true&order=5" width="80%" alt="activity-graph" />
-</div>
+---
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yeyounglim-01/yeyounglim-01/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
-
-<h3 align="left">🧠 AI / ML</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/openai/412991" height="40" alt="openai" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="40" alt="azure" />
-</div>
-
-###
-
-<h3 align="left">💻 Frontend / Backend</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="40" alt="fastapi" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter" />
-</div>
-
-###
-
-<h3 align="left">🛠 Tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="googlecloud" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion" />
-</div>
+[Portfolio](https://yeyounglim-01.github.io) · [LinkedIn](https://www.linkedin.com/in/yeyoung-lim-346708392) · alsu5933@gmail.com
