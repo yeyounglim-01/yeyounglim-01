@@ -21,7 +21,7 @@ Bridging creative intuition and AI engineering.
 
 **Projects**
 
-[Converge](https://converge-dkwi.vercel.app) — Gemini Vision 기반 철학적(가짜) 수평계 · GDG Busan AI Hackathon 2026 출품작 · 쓸모없는 AI 만들기 미션
+[Converge](https://converge-dkwi.vercel.app) — 오차의 수평계:converge(수렴) · GDG Busan AI Hackathon 2026 출품작 · 쓸모없는 AI 만들기 미션
 
 [Cro-share](https://github.com/yeyounglim-01/cro-share) — 이미지→뜨개질 도안 변환 · Next.js Canvas 기반 패턴 에디터 · 커뮤니티 갤러리
 
