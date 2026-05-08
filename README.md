@@ -35,7 +35,7 @@ Bridging creative intuition and AI engineering.
 
 [찍먹](https://github.com/yeyounglim-01/zzickmeok_proj) — YOLOv11 음식 탐지 · 약물-식품 상호작용 분석
 
-[Cosmos](https://yeyounglim-01.github.io) — 버추얼 패션 브랜드 · 3D CLO + Gen AI
+[Cosmos](https://yeyounglim-01.github.io) — 버추얼 패션 브랜드 · 3D CLO + Adobe
 
 ---
 
